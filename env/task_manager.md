@@ -144,5 +144,30 @@ Open your browser at:
 
 - [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
+## Interview Questions Based on This Project
+
+### FastAPI & Project Design
+1. What is FastAPI and why did you choose it for this project?
+2. What are the advantages of FastAPI compared to Flask or Django?
+3. What is the role of `main.py` in your FastAPI project?
+4. How do you organize your project structure and why?
+5. What is the purpose of `@app.get()` and `@app.post()` decorators?
+
+### CRUD Operations
+6. What are CRUD operations? How did you implement them?
+7. How many endpoints have you implemented and what does each do?
+8. Can you explain how your task creation and retrieval APIs work?
+
+### Sync vs Async
+9. What is the difference between sync and async functions in FastAPI?
+10. In which file did you use `async def`, and why?
+11. When would you prefer using `async` over `sync` in FastAPI?
+
+### Implementation & Environment
+12. What is a virtual environment and why did you use it?
+13. What packages did you install to run this project?
+14. What is the use of `requirements.txt`?
+15. How do you run this FastAPI application locally?
+
 ---
 
