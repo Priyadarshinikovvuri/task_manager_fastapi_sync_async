@@ -1,0 +1,23 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment/IDE files
+*.env
+*.log
+*.sqlite3
+.DS_Store
+*.db
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.so
+
+# Ignore OS junk
+Thumbs.db
+ehthumbs.db
